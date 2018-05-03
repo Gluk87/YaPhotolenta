@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Я.Фотолента</string>
+    <string name="netw_msg">Нет подключения к сети</string>
+    <string name="try_again">Попробовать снова</string>
+</resources>
